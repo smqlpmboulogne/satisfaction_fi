@@ -3,7 +3,7 @@
    ============================================================ */
 
 // 👇 URL du Worker Cloudflare pour le FI
-const API_URL = "https://proxy-satisfaction.smqipmboulogne.workers.dev/?target=fc";
+const API_URL = "https://proxy-satisfaction.smqipmboulogne.workers.dev/?target=fi";
 
 const NOMS_ENQUETES = {
   "Enquete_rentree": "Enquête de rentrée",
